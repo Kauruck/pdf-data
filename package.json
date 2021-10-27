@@ -1,0 +1,27 @@
+{
+  "name": "pdf-data",
+  "version": "1.0.0",
+  "description": "Pdf to data",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kauruck/pdf-data.git"
+  },
+  "keywords": [],
+  "author": "Kauruck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kauruck/pdf-data/issues"
+  },
+  "homepage": "https://github.com/Kauruck/pdf-data#readme",
+  "dependencies": {
+    "chart.js": "^3.6.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14",
+    "pdf2json": "^1.3.1"
+  }
+}
